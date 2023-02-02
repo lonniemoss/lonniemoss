@@ -1,5 +1,5 @@
 # 💫 About Me:
-🦾 I'm currently working on a DAPP using Smart Contract.<br>👯 I'm looking to collaborate on NFTs project.<br>🤝 I'm looking for help with Solidity.<br>🌱 I'm learning Data Structure.<br>⚡️ fun fact I make beats in my free times.
+🦾 I'm currently working on a mobile app.<br>👯 I'm looking to collaborate on react-native.<br>🤝 I'm looking for help with Solidity.<br>🌱 I'm learning Data Structure.<br>⚡️ fun fact I make beats in my free times.
 
 
 ## 🌐 Socials:
